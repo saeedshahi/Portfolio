@@ -11,9 +11,12 @@ Here you will find projects ranging from exploratory data analysis to advanced m
     Recent progress in computational chemistry has been significantly enhanced by machine learning (ML), especially in the development of potential-energy surfaces (PES). This advancement aims to narrow the gap between the high accuracy of ab initio methods and the efficiency of classical force fields (FFs). The innovative approach of these ML techniques is to estimate potential energy directly from chemical structures without the need for fixed chemical bonds or a priori knowledge of interactions, instead leveraging the statistical relationships derived from training data. In this project, we focus on refining machine-learned interatomic potentials specifically for water, aiming to achieve a new level of precision and efficiency in modeling water's unique properties.
   
 ![Water](/img/Picture1.png)
-- **[Project 2 Name]**: [Brief description of Project 2]
-- **[Project 3 Name]**: [Brief description of Project 3]
-- ...and more.
+
+- **Enzyme Stability Prediction**:
+  Understanding and accurately predict protein stability is a fundamental problem in biotechnology. Its applications include enzyme engineering for addressing the world’s challenges in sustainability, carbon neutrality and more. Improvements to enzyme stability could lower costs and increase the speed scientists can iterate on concepts. The goal of this project is to predict the thermostability of enzyme variants.
+  
+- **Intel’s Market Expedition: A Two-Decade Financial and Competitive Analysis**:
+   "Intel’s Market Expedition: A Two-Decade Financial and Competitive Analysis" explores how Intel has done financially and competed from 2000 to 2023, a time of big tech changes and tough competition. We look at Intel's money-making trends, its standing in the market, and how it stacks up against rivals like AMD and Nvidia. The aim is to give a clear and brief overview of where Intel stands in the tech world, showing how it has adapted and planned for the future. This report is meant to give useful insights to anyone interested in Intel's journey through the tech landscape.
 
 ## Skills and Tools
 
