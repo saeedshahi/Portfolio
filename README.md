@@ -15,8 +15,9 @@ Here you will find projects ranging from exploratory data analysis to advanced m
 - **Enzyme Stability Prediction**:
   Understanding and accurately predict protein stability is a fundamental problem in biotechnology. Its applications include enzyme engineering for addressing the world’s challenges in sustainability, carbon neutrality and more. Improvements to enzyme stability could lower costs and increase the speed scientists can iterate on concepts. The goal of this project is to predict the thermostability of enzyme variants.
   
-- **Intel’s Market Expedition: A Two-Decade Financial and Competitive Analysis**:
-   "Intel’s Market Expedition: A Two-Decade Financial and Competitive Analysis" explores how Intel has done financially and competed from 2000 to 2023, a time of big tech changes and tough competition. We look at Intel's money-making trends, its standing in the market, and how it stacks up against rivals like AMD and Nvidia. The aim is to give a clear and brief overview of where Intel stands in the tech world, showing how it has adapted and planned for the future. This report is meant to give useful insights to anyone interested in Intel's journey through the tech landscape .
+- **Economic Turbulence and Tech Giants: A Study of R&D and Operational Spending Impact on Profits**:
+   "This project examines how spending on research and office costs affects the profits of big tech companies during the 2008 economic downturn and the COVID-19 crisis. It aims to reveal spending patterns during tough economic times.
+- ![Intel](/img/Correlation_of_R&D_and_MG&A_Expenses_with_Net_Income.png)  
 
 ## Skills and Tools
 
