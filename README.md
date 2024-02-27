@@ -20,7 +20,7 @@ Here you will find projects ranging from exploratory data analysis to advanced m
 
     Recent progress in computational chemistry has been significantly enhanced by machine learning (ML), especially in the development of potential-energy surfaces (PES). This advancement aims to narrow the gap between the high accuracy of ab initio methods and the efficiency of classical force fields (FFs). The innovative approach of these ML techniques is to estimate potential energy directly from chemical structures without the need for fixed chemical bonds or a priori knowledge of interactions, instead leveraging the statistical relationships derived from training data. n this project, we focus on employing active learning methods to investigate the number of samples required to develop reliable machine-learned interatomic potentials for water. Our objective is to achieve precision and efficiency in modeling the unique properties of water.
   
-![Water](/img/Picture1.png)    
+- ![Water](/img/Picture1.png)    
 
 ## Skills and Tools
 
