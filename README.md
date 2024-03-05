@@ -11,7 +11,7 @@ Lithography mask optimization is a crucial step in the semiconductor manufacturi
 - ![ILT](/img/optimized_mask_comparison.png)
 - **Predicting Semiconductor Defects Using Machine Learning**:
   
-This project leverages machine learning techniques to predict patterning defect occurrences in semiconductor manufacturing, aiming to enhance yield and streamline the rework process by utilizing inline measurements of scanner exposure dose and focus. In the pursuit of minimizing yield loss in semiconductor production, we developed a classifier system capable of predicting defect modes prior to post-etch inspection. By analyzing inline scanner data, our model identifies potential defects immediately after the exposure step, thereby facilitating timely intervention and contributing to the overall efficiency and reliability of the manufacturing process.
+    This project leverages machine learning techniques to predict patterning defect occurrences in semiconductor manufacturing, aiming to enhance yield and streamline the rework process by utilizing inline measurements of scanner exposure dose and focus. In the pursuit of minimizing yield loss in semiconductor production, we developed a classifier system capable of predicting defect modes prior to post-etch inspection. By analyzing inline scanner data, our model identifies potential defects immediately after the exposure step, thereby facilitating timely intervention and contributing to the overall efficiency and reliability of the manufacturing process.
   
 - **Economic Turbulence and Tech Giants: A Study of R&D and Operational Spending Impact on Profits**:
 
