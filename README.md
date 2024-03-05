@@ -5,11 +5,11 @@ Welcome to my data science portfolio! I am Saeed Akbarshahi, a data scientist pa
 ## Portfolio Highlights
 
 Here you will find projects ranging from exploratory data analysis to advanced machine learning models. Each project is contained in its own directory with a detailed README explaining the problem, approach, results, and insights.
-- **Enhancing Semiconductor Fabrication: A Machine Learning Approach to Lithography Mask Optimization (In progress)**:
+**Enhancing Semiconductor Fabrication: A Machine Learning Approach to Lithography Mask Optimization (In progress)**:
 
     Lithography mask optimization is a crucial step in the semiconductor manufacturing process, where the goal is to design masks that can accurately and efficiently create the desired patterns on silicon wafers. Machine learning (ML) methods can significantly contribute to this area by improving the precision, speed, and efficiency of mask design, considering the complex interactions between light and the mask patterns. This project aims to benchmark various machine learning methodologies, comparing their effectiveness in enhancing the precision, speed, and efficiency of lithography mask design amidst the intricate interactions between light and mask patterns.
 - ![ILT](/img/optimized_mask_comparison.png)
-- **Predicting Semiconductor Defects Using Machine Learning**:
+**Predicting Semiconductor Defects Using Machine Learning**:
   
     This project leverages machine learning techniques to predict patterning defect occurrences in semiconductor manufacturing, aiming to enhance yield and streamline the rework process by utilizing inline measurements of scanner exposure dose and focus. In the pursuit of minimizing yield loss in semiconductor production, we developed a classifier system capable of predicting defect modes prior to post-etch inspection. By analyzing inline scanner data, our model identifies potential defects immediately after the exposure step, thereby facilitating timely intervention and contributing to the overall efficiency and reliability of the manufacturing process.
   
