@@ -12,7 +12,7 @@ Here you will find projects ranging from exploratory data analysis to advanced m
 - **Predicting Semiconductor Defects Using Machine Learning**:
   
     This project leverages machine learning techniques to predict patterning defect occurrences in semiconductor manufacturing, aiming to enhance yield and streamline the rework process by utilizing inline measurements of scanner exposure dose and focus. In the pursuit of minimizing yield loss in semiconductor production, we developed a classifier system capable of predicting defect modes before post-etch inspection. By analyzing inline scanner data, our model identifies potential defects immediately after the exposure step, thereby facilitating timely intervention and contributing to the overall efficiency and reliability of the manufacturing process.
-  
+    ![ILT](/img/DecisionBoundaryFullCoverage.png)  
 - **Economic Turbulence and Tech Giants: A Study of R&D and Operational Spending Impact on Profits**:
 
     This project examines how spending on research and office costs affected the profits of big tech companies during the 2008 economic downturn and the COVID-19 crisis. It aims to reveal spending patterns during tough economic times.
