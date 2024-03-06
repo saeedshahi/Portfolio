@@ -16,7 +16,7 @@ Here you will find projects ranging from exploratory data analysis to advanced m
 - **Economic Turbulence and Tech Giants: A Study of R&D and Operational Spending Impact on Profits**:
 
     This project examines how spending on research and office costs affected the profits of big tech companies during the 2008 economic downturn and the COVID-19 crisis. It aims to reveal spending patterns during tough economic times.
-    ![Intel](/img/Correlation_of_R&D_and_MG&A_Expenses_with_Net_Income.png)
+    ![Intel](/img/Correlation_of_R&D,MG&A_Expenses_with_Net_Income.png)
 
 - **The Role of Active Learning in Machine-Learned Potential Energy Surfaces**:
 
