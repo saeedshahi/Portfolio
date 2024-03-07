@@ -38,6 +38,13 @@ structure. The feature increases the optical absorption below the band gap of pu
 CuAl1−xFexO2 alloys are better suited for solar photocatalysis.
   
     ![Optic](/img/OpticalBand.png)
+
+  - **Phonon Dynamics in Anisotropic Dilute Delafossite**:
+
+    Here we report a new versatile approach for the calculation of phonon modes which is applicable to anisotropic, dilute alloys with allowance for a large variety of alloying elements. This approach has significant advantages over previously reported methods, especially for the lattice dynamics of such complex alloys. We use this approach to model the effects of Fe-doping on the vibrational modes in dilute alloys of CuAl1−xFexO2 (x = 0, 0.01, 0.05, and 0.10) delafossite powders. These samples were structurally characterized with X-ray diffraction (XRD) combined with Rietveld refinement to measure their lattice parameters and Raman and FTIR spectroscopies to measure optical phonon frequencies. To compare experimental results from XRD with calculations for lattice parameters, we use a disordered supercell for x in the range 0−0.1. Both results agree well with Vegard’s law. For the phonon calculations, an approach using a disordered supercell is not feasible because it is too computationally expensive. Instead, we developed our weighted dynamical matrix (WDM) approach that uses a straightforward ordered supercell for forceconstant calculations of the CuAlO2 and CuFeO2 parent end points, and combines them using a WDM approach leading to an effective medium for vibrational mode calculation in random alloys. Computationally, when Fe is substituted for Al (increasing x), an increase in the bond length is observed leading to a red-shift in the peak positions in all of the phonon modes vs x, in
+agreement with the experimentally observed trend.
+  
+    ![Phonon](/img/Phonon.png)
   
 ## Skills and Tools
 
