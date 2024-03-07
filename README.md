@@ -8,14 +8,17 @@ Here you will find projects ranging from exploratory data analysis to advanced m
 - **Enhancing Semiconductor Fabrication: A Deep Learning Approach to Lithography Mask Optimization (In progress)**:
 
     Lithography mask optimization is a crucial step in the semiconductor manufacturing process, where the goal is to design masks that can accurately and efficiently create the desired patterns on silicon wafers. Machine learning (ML) methods can significantly contribute to this area by improving the precision, speed, and efficiency of mask design, considering the complex interactions between light and the mask patterns. This project aims to benchmark various machine learning methodologies, comparing their effectiveness in enhancing the precision, speed, and efficiency of lithography mask design amidst the intricate interactions between light and mask patterns.
+  
     ![ILT](/img/optimized_mask_comparison.png)
 - **Predicting Semiconductor Defects Using Machine Learning**:
   
     This project leverages machine learning techniques to predict patterning defect occurrences in semiconductor manufacturing, aiming to enhance yield and streamline the rework process by utilizing inline measurements of scanner exposure dose and focus. In the pursuit of minimizing yield loss in semiconductor production, we developed a classifier system capable of predicting defect modes before post-etch inspection. By analyzing inline scanner data, our model identifies potential defects immediately after the exposure step, thereby facilitating timely intervention and contributing to the overall efficiency and reliability of the manufacturing process.
+  
     ![ILT](/img/DecisionBoundarySVM.png)  
 - **Economic Turbulence and Tech Giants: A Study of R&D and Operational Spending Impact on Profits**:
 
     This project examines how spending on research and office costs affected the profits of big tech companies during the 2008 economic downturn and the COVID-19 crisis. It aims to reveal spending patterns during tough economic times.
+  
     ![Intel](/img/Correlation_of_R&D,MG&A_Expenses_with_Net_Income.png)
 
 - **The Role of Active Learning in Machine-Learned Potential Energy Surfaces**:
@@ -36,14 +39,14 @@ eV for x = 0.01, which red-shifts to 1.4 eV for x = 0.10. This feature is associ
 valence band maximum to the Fe-3d state that appears below the conduction band of the spin-down band
 structure. The feature increases the optical absorption below the band gap of pure CuAlO2, making dilute
 CuAl1−xFexO2 alloys are better suited for solar photocatalysis.
-  
+
     ![Optic](/img/OpticalBand.png)
 
   - **Phonon Dynamics in Anisotropic Dilute Delafossite**:
 
     Here we report a new versatile approach for the calculation of phonon modes which is applicable to anisotropic, dilute alloys with allowance for a large variety of alloying elements. This approach has significant advantages over previously reported methods, especially for the lattice dynamics of such complex alloys. We use this approach to model the effects of Fe-doping on the vibrational modes in dilute alloys of CuAl1−xFexO2 (x = 0, 0.01, 0.05, and 0.10) delafossite powders. These samples were structurally characterized with X-ray diffraction (XRD) combined with Rietveld refinement to measure their lattice parameters and Raman and FTIR spectroscopies to measure optical phonon frequencies. To compare experimental results from XRD with calculations for lattice parameters, we use a disordered supercell for x in the range 0−0.1. Both results agree well with Vegard’s law. For the phonon calculations, an approach using a disordered supercell is not feasible because it is too computationally expensive. Instead, we developed our weighted dynamical matrix (WDM) approach that uses a straightforward ordered supercell for forceconstant calculations of the CuAlO2 and CuFeO2 parent end points, and combines them using a WDM approach leading to an effective medium for vibrational mode calculation in random alloys. Computationally, when Fe is substituted for Al (increasing x), an increase in the bond length is observed leading to a red-shift in the peak positions in all of the phonon modes vs x, in
 agreement with the experimentally observed trend.
-  
+
     ![Phonon](/img/Phonon.png)
   
 ## Skills and Tools
