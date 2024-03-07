@@ -37,7 +37,7 @@ valence band maximum to the Fe-3d state that appears below the conduction band o
 structure. The feature increases the optical absorption below the band gap of pure CuAlO2, making dilute
 CuAl1−xFexO2 alloys are better suited for solar photocatalysis.
   
-    ![Water](/img/OpticalBand.png)
+    ![Optic](/img/OpticalBand.png)
   
 ## Skills and Tools
 
