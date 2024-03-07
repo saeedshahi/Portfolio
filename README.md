@@ -24,6 +24,21 @@ Here you will find projects ranging from exploratory data analysis to advanced m
   
     ![Water](/img/Picture1.png)    
 
+- **Identification of a Fe-Dependent Optical Mode in CuAl1−xFexO2**:
+
+    Delafossites are promising candidates for photocatalysis applications because of their chemical
+stability and absorption in the solar region of the electromagnetic spectrum. For example, CuAlO2 has good
+chemical stability but has a large indirect band gap, so efforts to improve its absorption in the solar region
+through alloying are investigated. The effect of dilute alloying on the optical absorption of powdered
+CuAl1−xFexO2 (x = 0.0−1.0) is measured and compared to electronic band structure calculations using a
+generalized gradient approximation with Hubbard parameter and spin. A new absorption feature is observed at 1.8
+eV for x = 0.01, which red-shifts to 1.4 eV for x = 0.10. This feature is associated with transitions from the L-point
+valence band maximum to the Fe-3d state that appears below the conduction band of the spin-down band
+structure. The feature increases the optical absorption below the band gap of pure CuAlO2, making dilute
+CuAl1−xFexO2 alloys are better suited for solar photocatalysis.
+  
+    ![Water](/img/OpticalBand.png)
+  
 ## Skills and Tools
 
 - **Programming Languages**: Python, SQL
