@@ -1,6 +1,6 @@
 # Saeed Akbarshahi's Portfolio
 
-Welcome to my data science portfolio! I am Saeed Akbarshahi, passionate about extracting insights from data and using machine learning to solve complex problems. With a background in Computational Physics, I have developed a strong foundation in deep learning, data analysis, predictive modeling, and statistical inference. This portfolio showcases a selection of projects that demonstrate my skills in data cleaning, visualization, machine learning, and more.
+Welcome to my portfolio! I am Saeed Akbarshahi, passionate about extracting insights from data and using machine learning to solve complex problems. With a background in Computational Physics, I have developed a strong foundation in deep learning, data analysis, predictive modeling, and statistical inference. This portfolio showcases a selection of projects that demonstrate my skills in data cleaning, visualization, machine learning, and more.
 
 ## Portfolio Highlights
 
