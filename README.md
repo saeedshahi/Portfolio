@@ -5,7 +5,7 @@ Welcome to my portfolio! I am Saeed Akbarshahi, passionate about extracting insi
 ## Portfolio Highlights
 
 Here you will find projects ranging from exploratory data analysis to advanced machine learning models. Each project is contained in its directory with a detailed README explaining the problem, approach, results, and insights.
-- **Enhancing Semiconductor Fabrication: A Deep Learning Approach to Lithography Mask Optimization (In progress)**:
+- **Enhancing Semiconductor Fabrication: A Deep Learning Approach to Lithography Mask Optimization**:
 
     Lithography mask optimization is a crucial step in the semiconductor manufacturing process, where the goal is to design masks that can accurately and efficiently create the desired patterns on silicon wafers. Machine learning (ML) methods can significantly contribute to this area by improving the precision, speed, and efficiency of mask design, considering the complex interactions between light and the mask patterns. This project aims to benchmark various machine learning methodologies, comparing their effectiveness in enhancing the precision, speed, and efficiency of lithography mask design amidst the intricate interactions between light and mask patterns.
   
